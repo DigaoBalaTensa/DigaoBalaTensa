@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 👋
 
-<!--
-**DigaoBalaTensa/DigaoBalaTensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo de Oliveira Santos
 
-Here are some ideas to get you started:
+- Estudante no Ensino Médio.
+- Estou aprenedendo a linguagem JavaScript.
+- Utilizo o Git Hub para me organizar e compartilhar meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  rodraingo.oliveira@gmail.com
+
+![](https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif)
